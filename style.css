@@ -1,0 +1,77 @@
+body {
+	background-color: #ffc;
+	color: black;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+	margin: 20px;
+	padding: 0;
+}
+
+/* This is a comment, by the way */
+	
+h1 {
+	border-bottom-color: #c00;
+	border-bottom-style: solid;
+	border-bottom-width: 0.5em;
+	color: #ffc;
+	background-color: #900;
+	font-size: 2em;
+	font-style: italic;
+	letter-spacing: 0.5em;
+	margin: 0;
+	margin-bottom: 7px;
+	padding: 4px;
+	text-align: center;
+	
+}
+
+h2 {
+	background-color: #090;
+	border-style: dashed;
+	border-width: 3px;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-color: red;
+	color: white;
+	font-size: 1.5em;
+	margin: 0;
+	padding: 2px;
+	padding-left: 14px;
+}
+
+h3 {
+	color: #999;
+	font-size: 1.25em;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	border-color: #ccc;
+	border-style: dashed;
+	border-width: 2px;
+}
+
+li {
+	color: #900;
+	font-style: italic;
+}
+
+p {
+	letter-spacing: 0.5em;
+	word-spacing: 2em;
+	line-height: 21px;
+	text-align: center;
+}
+	
+
+strong {
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+table {
+	background-color: #ccc;
+
